@@ -1,0 +1,14 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Restaurantes",
+      "descricao": "Lugares para alimentação."
+    },
+    {
+      "nome": "Shoppings",
+      "descricao": "Lugares para fazer compras e passear.",
+      "id": "2"
+    }
+  ]
+}
