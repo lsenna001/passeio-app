@@ -10,5 +10,23 @@
       "descricao": "Lugares para fazer compras e passear.",
       "id": "2"
     }
+  ],
+  "lugares": [
+    {
+      "id": "4e52",
+      "nome": "Teste",
+      "categoria": "Restaurantes",
+      "localizacao": "Teste",
+      "urlFoto": "Teste",
+      "avaliacao": "4"
+    },
+    {
+      "id": "4c45",
+      "nome": "Tesete",
+      "categoria": "Shoppings",
+      "localizacao": "Teste",
+      "urlFoto": "Teset",
+      "avaliacao": "5"
+    }
   ]
 }
