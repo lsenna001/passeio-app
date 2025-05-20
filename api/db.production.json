@@ -1,0 +1,19 @@
+{
+  "categorias": [
+    {
+      "nome": "Praias",
+      "descricao": "Praias paradisiacas",
+      "id": "r4-adhu"
+    }
+  ],
+  "lugares": [
+    {
+      "nome": "Praia do Forte",
+      "categoria": "Praias",
+      "localizacao": "Cabo Frio",
+      "urlFoto": "https://adoroviagem.com.br/wp-content/uploads/2020/10/cabo-frio-Praia-de-canto-do-forte.jpg",
+      "avaliacao": "5",
+      "id": "FnKdk6b"
+    }
+  ]
+}
