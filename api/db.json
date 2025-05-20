@@ -9,24 +9,45 @@
       "nome": "Shoppings",
       "descricao": "Lugares para fazer compras e passear.",
       "id": "2"
+    },
+    {
+      "nome": "Praias",
+      "descricao": "Praias paradisiacas",
+      "id": "r4-adhu"
     }
   ],
   "lugares": [
     {
-      "id": "4e52",
-      "nome": "Teste",
-      "categoria": "Restaurantes",
-      "localizacao": "Teste",
-      "urlFoto": "Teste",
-      "avaliacao": "4"
+      "nome": "Praia do Forte",
+      "categoria": "Praias",
+      "localizacao": "Cabo Frio",
+      "urlFoto": "https://adoroviagem.com.br/wp-content/uploads/2020/10/cabo-frio-Praia-de-canto-do-forte.jpg",
+      "avaliacao": "5",
+      "id": "FnKdk6b"
     },
     {
-      "id": "4c45",
-      "nome": "Tesete",
+      "nome": "JK Shopping",
       "categoria": "Shoppings",
-      "localizacao": "Teste",
-      "urlFoto": "Teset",
-      "avaliacao": "5"
+      "localizacao": "Taguatinga - DF",
+      "urlFoto": "https://media.licdn.com/dms/image/v2/C4D1BAQE_rqR_TGiZxA/company-background_10000/company-background_10000/0/1597844464027/jk_shopping_cover?e=2147483647&v=beta&t=DKWj8aqlYZj0NBnguVmxfMhbc6WZ24O7n8xmME3eae8",
+      "avaliacao": "3",
+      "id": "OoW9vRX"
+    },
+    {
+      "nome": "Iguatemi Shopping",
+      "categoria": "Shoppings",
+      "localizacao": "Fortaleza - CE",
+      "urlFoto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/16/e0/46/o-iguatemi-e-o-shopping.jpg?w=1200&h=-1&s=1",
+      "avaliacao": "4",
+      "id": "LeP8G1C"
+    },
+    {
+      "nome": "Outback",
+      "categoria": "Restaurantes",
+      "localizacao": "JK Shopping",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXU-v35uzP8kGavw4BbuTrXi5F1Dpsl9W8g&s",
+      "avaliacao": "4",
+      "id": "F1Y6usN"
     }
   ]
 }
